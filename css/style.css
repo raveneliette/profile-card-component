@@ -136,24 +136,5 @@ span {
 /* Media Queries */
 /* Mobile */
 @media (max-width: 500px) {
-    .bg-pattern-top {
-        right: 0;
-        left: -139%;
-        top: -75%;
-    }
 
-    .bg-pattern-top:hover {
-        left: -134%;
-        top: -70%;
-    }
-
-    .bg-pattern-bottom {
-        left: 45%;
-        top: 46%;
-    }
-
-    .bg-pattern-bottom:hover {
-        left: 40%;
-        top: 41%;
-    }
 }
