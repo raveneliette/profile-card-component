@@ -26,7 +26,9 @@ body {
     align-items: center;
     justify-content: center;
     font-family: 'Kumbh Sans', sans-serif;
-    overflow: hidden;
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 52.7vw bottom 35.5vh, left 47.7vw top 54.3vh;
 }
 
 span {
@@ -131,7 +133,7 @@ span {
     width: 100%;
 }
 
-.bg-pattern-top {
+/* .bg-pattern-top {
     background: url("../images/bg-pattern-top.svg");
     width: 978px;
     height: 978px;
@@ -139,14 +141,14 @@ span {
     left: -16%;
     top: -65.3%;
     transition: all 1s ease-in-out 0.2s;
-}
+} */
 
-.bg-pattern-top:hover {
+/* .bg-pattern-top:hover {
     left: -11%;
     top: -60.3%;
-}
+} */
 
-.bg-pattern-bottom {
+/* .bg-pattern-bottom {
     background: url("../images/bg-pattern-bottom.svg");
     width: 978px;
     height: 978px;
@@ -154,12 +156,12 @@ span {
     right: -11.3%;
     bottom: -84.5%;
     transition: all 1s ease-in-out 0.2s;
-}
+} */
 
-.bg-pattern-bottom:hover {
+/* .bg-pattern-bottom:hover {
     right: -6.3%;
     bottom: -79.5%;
-}
+} */
 
 /* Media Queries */
 /* Mobile */
