@@ -133,36 +133,6 @@ span {
     width: 100%;
 }
 
-/* .bg-pattern-top {
-    background: url("../images/bg-pattern-top.svg");
-    width: 978px;
-    height: 978px;
-    position: absolute;
-    left: -16%;
-    top: -65.3%;
-    transition: all 1s ease-in-out 0.2s;
-} */
-
-/* .bg-pattern-top:hover {
-    left: -11%;
-    top: -60.3%;
-} */
-
-/* .bg-pattern-bottom {
-    background: url("../images/bg-pattern-bottom.svg");
-    width: 978px;
-    height: 978px;
-    position: absolute;
-    right: -11.3%;
-    bottom: -84.5%;
-    transition: all 1s ease-in-out 0.2s;
-} */
-
-/* .bg-pattern-bottom:hover {
-    right: -6.3%;
-    bottom: -79.5%;
-} */
-
 /* Media Queries */
 /* Mobile */
 @media (max-width: 500px) {
