@@ -21,8 +21,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./images/desktop-view-screenshot.png)
-![](./images/mobile-view-screenshot.png)
+![](./images/desktop-view.png)
+![](./images/mobile-view.png)
 
 ### Links
 
@@ -39,7 +39,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I learn more about positioning the background patterns, overflow property, etc.
+I learned more about positioning the background patterns.
 
 ## Author
 
