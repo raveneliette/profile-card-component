@@ -136,8 +136,12 @@ span {
 /* Media Queries */
 /* Mobile */
 @media (max-width: 500px) {
+    body {
+        background-position: right 34vw bottom 50vh, left 43.5vw top 34vh;
+    }
+
     .card {
-        width: 325px;
+        width: 328px;
     }
 
     .stats-container {
