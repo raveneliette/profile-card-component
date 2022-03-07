@@ -136,5 +136,19 @@ span {
 /* Media Queries */
 /* Mobile */
 @media (max-width: 500px) {
+    .card {
+        width: 325px;
+    }
 
+    .stats-container {
+        padding: 1.563rem 3.125rem 1.563rem 2.5rem;
+    }
+
+    .stats-container > div:nth-child(1) {
+        margin-right: 2.7rem;
+    }
+
+    .stats-container > div:nth-child(2) {
+        margin-right: 3.1rem;
+    }
 }
